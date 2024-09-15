@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Document</title>
+</head>
+<body>
+    
+      
+    <h1>Search for Cinema</h1>
+    <form id="movieform">
+    <input type="text" id="nameInput" placeholder="Enter name" />
+    <button onclick="displayImage()" id="S-btn" type="submit">Search</button>
+    </form>
+    <div class="card" style="display: none;" >
+        <img id="moviepic" src="sita ram.jpg"  />
+        <div id="result">
+            
+        <p><span>Movie:</span><span id="movie-name">Bahubali</span></p>
+        <p><span>Rating <i class="fa-regular fa-heart" style="color: black; font-size: 19px;"></i>:</span><span id="rate">9/10 <i class="fa-regular fa-heart" style="color: black; font-size: 19px;"></i></span></p>
+        <p><span>Director:</span><span id="director-name">Rajmouli</span></p>
+        <p><span>Year:</span><span id="year">2014</span></p>
+    
+        </div>
+    </div>
+    <p class="irfan">-Itlu mi Cinema Pichodu</p>
+    <script src="index.js"></script>
+</body>
+</html>

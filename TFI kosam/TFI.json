@@ -1,0 +1,493 @@
+[
+    {
+        "name": "Simhadri",
+        "Rating": 8,
+        "director": "Rajmouli",
+        "image": "simhadri.jpeg",
+        "year": 2003
+    },
+    {
+        "name": "Sye",
+        "Rating": 7.5,
+        "director": "Rajmouli",
+        "image": "sye.jpeg",
+        "year": 2004
+    },
+    {
+        "name": "Chatrapathi",
+        "Rating": 8.5,
+        "director": "Rajmouli",
+        "image": "chtrapathi.jpeg",
+        "year": 2005
+    },
+    {
+        "name": "Vikramarkudu",
+        "Rating": 8,
+        "director": "Rajmouli",
+        "image": "vikramakudu.jpeg",
+        "year": 2006
+    },
+    {
+        "name": "Yamadonga",
+        "Rating": 7.8,
+        "director": "Rajmouli",
+        "image": "yamadonga.jpeg",
+        "year": 2007
+    },
+    {
+        "name": "Magadheera",
+        "Rating": 8.7,
+        "director": "Rajmouli",
+        "image": "magadheera.jpeg",
+        "year": 2009
+    },
+    {
+        "name": "Maryada Ramanna",
+        "Rating": 7.6,
+        "director": "Rajmouli",
+        "image": "maryadharamanan.jpeg",
+        "year": 2010
+    },
+    {
+        "name": "Eega",
+        "Rating": 8.2,
+        "director": "Rajmouli",
+        "image": "eega.jpeg",
+        "year": 2012
+    },
+    {
+        "name": "Bahubali",
+        "Rating": 9,
+        "director": "Rajmouli",
+        "image": "bahubai.jpg",
+        "year": 2015
+    },
+    {
+        "name": "RRR",
+        "Rating": 9.2,
+        "director": "Rajmouli",
+        "image": "RRR.jpg",
+        "year": 2022
+    },
+    {
+        "name": "Sakthi",
+        "Rating": 5.2,
+        "director": "Meher Ramesh",
+        "image": "sakthi.jpg",
+        "year": 2011
+    },
+    {
+        "name": "Kantri",
+        "Rating": 5.5,
+        "director": "Meher Ramesh",
+        "image": "kantri.jpg",
+        "year": 2008
+    },
+    {
+        "name": "Shadow",
+        "Rating": 5.8,
+        "director": "Meher Ramesh",
+        "image": "shadow.jpg",
+        "year": 2013
+    },
+    {
+        "name": "Billa",
+        "Rating": 7.4,
+        "director": "Meher Ramesh",
+        "image": "billa.jpg",
+        "year": 2009
+    },
+    {
+        "name": "Pushpa",
+        "Rating": 8.5,
+        "director": "Sukumar",
+        "image": "puspa.webp",
+        "year": 2021
+    },
+    {
+        "name": "Sarileru Neekevvaru",
+        "Rating": 7.9,
+        "director": "Anil Ravipudi",
+        "image": "sarileru.jpg",
+        "year": 2020
+    },
+    {
+        "name": "Dasara",
+        "Rating": 8.3,
+        "director": "Srikanth Odela",
+        "image": "dasara.jpg",
+        "year": 2023
+    },
+    {
+        "name": "Bholaa Shankar",
+        "Rating": 6.7,
+        "director": "Meher Ramesh",
+        "image": "bhola.webp",
+        "year": 2023
+    },
+    {
+        "name": "Bro",
+        "Rating": 7.5,
+        "director": "Samuthirakani",
+        "image": "bro.webp",
+        "year": 2023
+    },
+    {
+        "name": "Waltair Veerayya",
+        "Rating": 7.4,
+        "director": "K. S. Ravindra",
+        "image": "",
+        "year": 2023
+    },
+    {
+        "name": "Kushi",
+        "Rating": 8.1,
+        "director": "S. J. Surya",
+        "image": "kushi.cms",
+        "year": 2001
+    },
+    {
+        "name": "Ala Vaikunthapurramuloo",
+        "Rating": 8.4,
+        "director": "Trivikram Srinivas",
+        "image": "",
+        "year": 2020
+    },
+    {
+        "name": "F2",
+        "Rating": 7.8,
+        "director": "Anil Ravipudi",
+        "image": "f2.jpg",
+        "year": 2019
+    },
+    {
+        "name": "Attarintiki Daredi",
+        "Rating": 8.1,
+        "director": "Trivikram Srinivas",
+        "image": "athaa.jpg",
+        "year": 2013
+    },
+    {
+        "name": "Bommarillu",
+        "Rating": 8.6,
+        "director": "Bhaskar",
+        "image": "bomma.jpg",
+        "year": 2006
+    },
+    {
+        "name": "Arjun Reddy",
+        "Rating": 8.7,
+        "director": "Sandeep Reddy Vanga",
+        "image": "arjun reddy.jpg",
+        "year": 2017
+    },
+    {
+        "name": "Geetha Govindam",
+        "Rating": 7.8,
+        "director": "Parasuram",
+        "image": "geetha.jpg",
+        "year": 2018
+    },
+    {
+        "name": "Manam",
+        "Rating": 8.4,
+        "director": "Vikram Kumar",
+        "image": "manam.jpeg",
+        "year": 2014
+    },
+    {
+        "name": "Tholi Prema",
+        "Rating": 8.3,
+        "director": "Venky Atluri",
+        "image": "",
+        "year": 1998
+    },
+    {
+        "name": "Mirchi",
+        "Rating": 7.9,
+        "director": "Koratala Siva",
+        "image": "mirchi.jpg",
+        "year": 2013
+    },
+    {
+        "name": "Premam",
+        "Rating": 8.2,
+        "director": "Chandoo Mondeti",
+        "image": "premam.jpg",
+        "year": 2016
+    },
+    {
+        "name": "Gabbar Singh",
+        "Rating": 7.4,
+        "director": "Harish Shankar",
+        "image": "gabbar.jpg",
+        "year": 2012
+    },
+    {
+        "name": "Akhanda",
+        "Rating": 7.5,
+        "director": "Boyapati Srinu",
+        "image": "akanda.jpg",
+        "year": 2021
+    },
+    {
+        "name": "DJ",
+        "Rating": 7.2,
+        "director": "Harish Shankar",
+        "image": "dj.jpg",
+        "year": 2017
+    },
+    {
+        "name": "Ee Nagaraniki Emaindi",
+        "Rating": 8,
+        "director": "Tharun Bhascker",
+        "image": "",
+        "year": 2018
+    },
+    {
+        "name": "Jathi Ratnalu",
+        "Rating": 8.1,
+        "director": "Anudeep K.V.",
+        "image": "",
+        "year": 2021
+    },
+    {
+        "name": "Bhale Bhale Magadivoy",
+        "Rating": 7.9,
+        "director": "Maruthi",
+        "image": "",
+        "year": 2015
+    },
+    {
+        "name": "Nuvvu Naaku Nachav",
+        "Rating": 8.2,
+        "director": "K. Vijaya Bhaskar",
+        "image": "",
+        "year": 2001
+    },
+    {
+        "name": "Skanda",
+        "Rating": 7,
+        "director": "Boyapati Srinu",
+        "image": "",
+        "year": 2023
+    },
+    {
+        "name": "Salaar",
+        "Rating": 8.2,
+        "director": "Prashanth Neel",
+        "image": "",
+        "year": 2024
+    },
+    {
+        "name": "Kalki",
+        "Rating": 9.2,
+        "director": "Prasanth Varma",
+        "image": "",
+        "year": 2019
+    },
+    {
+        "name": "Adipurush",
+        "Rating": 7.1,
+        "director": "Om Raut",
+        "image": "",
+        "year": 2023
+    },
+    {
+        "name": "Khaleja",
+        "Rating": 7.6,
+        "director": "Trivikram Srinivas",
+        "image": "",
+        "year": 2010
+    },
+    {
+        "name": "Ninnu Kori",
+        "Rating": 7.8,
+        "director": "Shiva Nirvana",
+        "image": "",
+        "year": 2017
+    },
+    {
+        "name": "Gang Leader",
+        "Rating": 7.5,
+        "director": "Vikram Kumar",
+        "image": "",
+        "year": 2019
+    },
+    {
+        "name": "Saripodha Sanivaram",
+        "Rating": 7,
+        "director": "Unknown",
+        "image": "",
+        "year": 2012
+    },
+    {
+        "name": "Devara",
+        "Rating": 8.1,
+        "director": "Koratala Siva",
+        "image": "",
+        "year": 2024
+    },
+    {
+        "name": "Guntur Karam",
+        "Rating": 7.9,
+        "director": "Trivikram Srinivas",
+        "image": "",
+        "year": 2024
+    },
+    {
+        "name": "Racha",
+        "Rating": 7.1,
+        "director": "Sampath Nandi",
+        "image": "rachha.jpg",
+        "year": 2012
+    },
+    {
+        "name": "Gentleman",
+        "Rating": 7.4,
+        "director": "Mohan Krishna Indraganti",
+        "image": "",
+        "year": 2016
+    },
+    {
+        "name": "Dubai Seenu",
+        "Rating": 7.2,
+        "director": "Sreenu Vaitla",
+        "image": "",
+        "year": 2007
+    },
+    {
+        "name": "Rebel",
+        "Rating": 6.5,
+        "director": "Raghava Lawrence",
+        "image": "",
+        "year": 2012
+    },
+    {
+        "name": "Fidda",
+        "Rating": 8.6,
+        "director": "Sekhar Kammula",
+        "image": "",
+        "year": 2017
+    },
+    {
+        "name": "MCA",
+        "Rating": 8,
+        "director": "Venu Sriram",
+        "image": "",
+        "year": 2017
+    },
+    {
+        "name": "Jersey",
+        "Rating": 8.9,
+        "director": "Gowtam Tinnanuri",
+        "image": "jersy.jpg",
+        "year": 2019
+    },
+    {
+        "name": "Kick",
+        "Rating": 8.8,
+        "director": "Sreenu Vaitla",
+        "image": "",
+        "year": 2009
+    },
+    {
+        "name": "Juliee",
+        "Rating": 8.3,
+        "director": "Trivikram Srinivas",
+        "image": "",
+        "year": 2012
+    },
+    {
+        "name": "KGF",
+        "Rating": 8.9,
+        "director": "Prashanth Neel",
+        "image": "",
+        "year": 2018
+    },
+    {
+        "name": "Dhee",
+        "Rating": 7.9,
+        "director": "Sreenu Vaitla",
+        "image": "",
+        "year": 2007
+    },
+    {
+        "name": "Sahasam",
+        "Rating": 7.6,
+        "director": "Chandrasekhar Yeleti",
+        "image": "",
+        "year": 2013
+    },
+    {
+        "name": "Legend",
+        "Rating": 7.2,
+        "director": "Boyapati Srinu",
+        "image": "",
+        "year": 2014
+    },
+    {
+        "name": "Nenu Local",
+        "Rating": 7.4,
+        "director": "Trinadha Rao Nakkina",
+        "image": "",
+        "year": 2017
+    },
+    {
+        "name": "Sita Ramam",
+        "Rating": 8.4,
+        "director": "Hanu Raghavapudi",
+        "image": "sita ram.jpg",
+        "year": 2022
+    },
+    {
+        "name": "Animal",
+        "Rating": 8.8,
+        "director": "Sandeep Reddy Vanga",
+        "image": "",
+        "year": 2023
+    },
+    
+    {
+        "name": "Raja",
+        "Rating": 8.6,
+        "director": "Ravi Raja Pinisetty",
+        "image": "",
+        "year": 1999
+    },
+    {
+        "name": "Singham",
+        "Rating": 7.1,
+        "director": "Rohit Shetty",
+        "image": "",
+        "year": 2011
+    },
+    {
+        "name": "Venky",
+        "Rating": 7.4,
+        "director": "Sreenu Vaitla",
+        "image": "",
+        "year": 2004
+    },
+    {
+        "name": "Dammu",
+        "Rating": 6.1,
+        "director": "Boyapati Srinu",
+        "image": "",
+        "year": 2012
+    },
+    {
+        "name": "Ragam",
+        "Rating": 7,
+        "director": "Unknown",
+        "image": "",
+        "year": 2022
+    },
+    {
+        "name": "Kadhaippoma",
+        "Rating": "Mouni Chepali",
+        "director": "Hariharran",
+        "image": "kadhaipomma.jpg",
+        "year": 2020
+    }
+]
